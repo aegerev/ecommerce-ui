@@ -14,8 +14,8 @@ function App() {
     { id: 6, name: "Nokia C3-00 Unlocked Cell Phone", price: 76.00 },
     { id: 7, name: "Mad Money with Jim Cramer - Back to Basics DVD", price: 17.99 },
     { id: 8, name: "Tonies Ariel Audio Play Character from Disney's The Little Mermaid", price: 17.99 },
-    { id: 9, name: "reMarkable Bundle 2 Notetaking Tablet", price: 429.00 },
-    { id: 10, name: "Punkt. MP02 4G LTE Minimalist Mobile Phone", price: 229.00 },
+    { id: 9, name: "Punkt. MP02 4G LTE Minimalist Mobile Phone", price: 229.00 },
+    { id: 10, name: "reMarkable Bundle 2 Notetaking Tablet", price: 429.00 },
 ];
 
   return (
